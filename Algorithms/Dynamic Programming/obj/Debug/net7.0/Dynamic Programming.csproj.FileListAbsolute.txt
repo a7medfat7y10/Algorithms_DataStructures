@@ -1,0 +1,15 @@
+C:\Users\Fathy\Desktop\Algoritms\Dynamic Programming\bin\Debug\net7.0\Dynamic Programming.exe
+C:\Users\Fathy\Desktop\Algoritms\Dynamic Programming\bin\Debug\net7.0\Dynamic Programming.deps.json
+C:\Users\Fathy\Desktop\Algoritms\Dynamic Programming\bin\Debug\net7.0\Dynamic Programming.runtimeconfig.json
+C:\Users\Fathy\Desktop\Algoritms\Dynamic Programming\bin\Debug\net7.0\Dynamic Programming.dll
+C:\Users\Fathy\Desktop\Algoritms\Dynamic Programming\bin\Debug\net7.0\Dynamic Programming.pdb
+C:\Users\Fathy\Desktop\Algoritms\Dynamic Programming\obj\Debug\net7.0\Dynamic Programming.csproj.AssemblyReference.cache
+C:\Users\Fathy\Desktop\Algoritms\Dynamic Programming\obj\Debug\net7.0\Dynamic Programming.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fathy\Desktop\Algoritms\Dynamic Programming\obj\Debug\net7.0\Dynamic Programming.AssemblyInfoInputs.cache
+C:\Users\Fathy\Desktop\Algoritms\Dynamic Programming\obj\Debug\net7.0\Dynamic Programming.AssemblyInfo.cs
+C:\Users\Fathy\Desktop\Algoritms\Dynamic Programming\obj\Debug\net7.0\Dynamic Programming.csproj.CoreCompileInputs.cache
+C:\Users\Fathy\Desktop\Algoritms\Dynamic Programming\obj\Debug\net7.0\Dynamic Programming.dll
+C:\Users\Fathy\Desktop\Algoritms\Dynamic Programming\obj\Debug\net7.0\refint\Dynamic Programming.dll
+C:\Users\Fathy\Desktop\Algoritms\Dynamic Programming\obj\Debug\net7.0\Dynamic Programming.pdb
+C:\Users\Fathy\Desktop\Algoritms\Dynamic Programming\obj\Debug\net7.0\Dynamic Programming.genruntimeconfig.cache
+C:\Users\Fathy\Desktop\Algoritms\Dynamic Programming\obj\Debug\net7.0\ref\Dynamic Programming.dll

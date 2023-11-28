@@ -1,0 +1,15 @@
+C:\Users\Fathy\Desktop\Searching Algorithms\GreedyAlgorithms\bin\Debug\net7.0\GreedyAlgorithms.exe
+C:\Users\Fathy\Desktop\Searching Algorithms\GreedyAlgorithms\bin\Debug\net7.0\GreedyAlgorithms.deps.json
+C:\Users\Fathy\Desktop\Searching Algorithms\GreedyAlgorithms\bin\Debug\net7.0\GreedyAlgorithms.runtimeconfig.json
+C:\Users\Fathy\Desktop\Searching Algorithms\GreedyAlgorithms\bin\Debug\net7.0\GreedyAlgorithms.dll
+C:\Users\Fathy\Desktop\Searching Algorithms\GreedyAlgorithms\bin\Debug\net7.0\GreedyAlgorithms.pdb
+C:\Users\Fathy\Desktop\Searching Algorithms\GreedyAlgorithms\obj\Debug\net7.0\GreedyAlgorithms.csproj.AssemblyReference.cache
+C:\Users\Fathy\Desktop\Searching Algorithms\GreedyAlgorithms\obj\Debug\net7.0\GreedyAlgorithms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fathy\Desktop\Searching Algorithms\GreedyAlgorithms\obj\Debug\net7.0\GreedyAlgorithms.AssemblyInfoInputs.cache
+C:\Users\Fathy\Desktop\Searching Algorithms\GreedyAlgorithms\obj\Debug\net7.0\GreedyAlgorithms.AssemblyInfo.cs
+C:\Users\Fathy\Desktop\Searching Algorithms\GreedyAlgorithms\obj\Debug\net7.0\GreedyAlgorithms.csproj.CoreCompileInputs.cache
+C:\Users\Fathy\Desktop\Searching Algorithms\GreedyAlgorithms\obj\Debug\net7.0\GreedyAlgorithms.dll
+C:\Users\Fathy\Desktop\Searching Algorithms\GreedyAlgorithms\obj\Debug\net7.0\refint\GreedyAlgorithms.dll
+C:\Users\Fathy\Desktop\Searching Algorithms\GreedyAlgorithms\obj\Debug\net7.0\GreedyAlgorithms.pdb
+C:\Users\Fathy\Desktop\Searching Algorithms\GreedyAlgorithms\obj\Debug\net7.0\GreedyAlgorithms.genruntimeconfig.cache
+C:\Users\Fathy\Desktop\Searching Algorithms\GreedyAlgorithms\obj\Debug\net7.0\ref\GreedyAlgorithms.dll

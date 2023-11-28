@@ -1,0 +1,15 @@
+C:\Users\Fathy\Desktop\Searching Algorithms\SortingAlgorithms\bin\Debug\net7.0\SortingAlgorithms.exe
+C:\Users\Fathy\Desktop\Searching Algorithms\SortingAlgorithms\bin\Debug\net7.0\SortingAlgorithms.deps.json
+C:\Users\Fathy\Desktop\Searching Algorithms\SortingAlgorithms\bin\Debug\net7.0\SortingAlgorithms.runtimeconfig.json
+C:\Users\Fathy\Desktop\Searching Algorithms\SortingAlgorithms\bin\Debug\net7.0\SortingAlgorithms.dll
+C:\Users\Fathy\Desktop\Searching Algorithms\SortingAlgorithms\bin\Debug\net7.0\SortingAlgorithms.pdb
+C:\Users\Fathy\Desktop\Searching Algorithms\SortingAlgorithms\obj\Debug\net7.0\SortingAlgorithms.csproj.AssemblyReference.cache
+C:\Users\Fathy\Desktop\Searching Algorithms\SortingAlgorithms\obj\Debug\net7.0\SortingAlgorithms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fathy\Desktop\Searching Algorithms\SortingAlgorithms\obj\Debug\net7.0\SortingAlgorithms.AssemblyInfoInputs.cache
+C:\Users\Fathy\Desktop\Searching Algorithms\SortingAlgorithms\obj\Debug\net7.0\SortingAlgorithms.AssemblyInfo.cs
+C:\Users\Fathy\Desktop\Searching Algorithms\SortingAlgorithms\obj\Debug\net7.0\SortingAlgorithms.csproj.CoreCompileInputs.cache
+C:\Users\Fathy\Desktop\Searching Algorithms\SortingAlgorithms\obj\Debug\net7.0\SortingAlgorithms.dll
+C:\Users\Fathy\Desktop\Searching Algorithms\SortingAlgorithms\obj\Debug\net7.0\refint\SortingAlgorithms.dll
+C:\Users\Fathy\Desktop\Searching Algorithms\SortingAlgorithms\obj\Debug\net7.0\SortingAlgorithms.pdb
+C:\Users\Fathy\Desktop\Searching Algorithms\SortingAlgorithms\obj\Debug\net7.0\SortingAlgorithms.genruntimeconfig.cache
+C:\Users\Fathy\Desktop\Searching Algorithms\SortingAlgorithms\obj\Debug\net7.0\ref\SortingAlgorithms.dll

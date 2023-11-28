@@ -1,0 +1,15 @@
+C:\Users\Fathy\Desktop\Algoritms\Graph\bin\Debug\net7.0\Graph.exe
+C:\Users\Fathy\Desktop\Algoritms\Graph\bin\Debug\net7.0\Graph.deps.json
+C:\Users\Fathy\Desktop\Algoritms\Graph\bin\Debug\net7.0\Graph.runtimeconfig.json
+C:\Users\Fathy\Desktop\Algoritms\Graph\bin\Debug\net7.0\Graph.dll
+C:\Users\Fathy\Desktop\Algoritms\Graph\bin\Debug\net7.0\Graph.pdb
+C:\Users\Fathy\Desktop\Algoritms\Graph\obj\Debug\net7.0\Graph.csproj.AssemblyReference.cache
+C:\Users\Fathy\Desktop\Algoritms\Graph\obj\Debug\net7.0\Graph.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fathy\Desktop\Algoritms\Graph\obj\Debug\net7.0\Graph.AssemblyInfoInputs.cache
+C:\Users\Fathy\Desktop\Algoritms\Graph\obj\Debug\net7.0\Graph.AssemblyInfo.cs
+C:\Users\Fathy\Desktop\Algoritms\Graph\obj\Debug\net7.0\Graph.csproj.CoreCompileInputs.cache
+C:\Users\Fathy\Desktop\Algoritms\Graph\obj\Debug\net7.0\Graph.dll
+C:\Users\Fathy\Desktop\Algoritms\Graph\obj\Debug\net7.0\refint\Graph.dll
+C:\Users\Fathy\Desktop\Algoritms\Graph\obj\Debug\net7.0\Graph.pdb
+C:\Users\Fathy\Desktop\Algoritms\Graph\obj\Debug\net7.0\Graph.genruntimeconfig.cache
+C:\Users\Fathy\Desktop\Algoritms\Graph\obj\Debug\net7.0\ref\Graph.dll
