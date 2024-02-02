@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Fathy\\Desktop\\Algoritms\\GreedyAlgorithms\\GreedyAlgorithms.csproj",
+      "projectUniqueName": "E:\\Courses\\Software Engineering\\MyProjects\\Algorithms_DataStructures\\Algorithms\\GreedyAlgorithms\\GreedyAlgorithms.csproj",
       "projectName": "GreedyAlgorithms",
-      "projectPath": "C:\\Users\\Fathy\\Desktop\\Algoritms\\GreedyAlgorithms\\GreedyAlgorithms.csproj",
+      "projectPath": "E:\\Courses\\Software Engineering\\MyProjects\\Algorithms_DataStructures\\Algorithms\\GreedyAlgorithms\\GreedyAlgorithms.csproj",
       "packagesPath": "C:\\Users\\Fathy\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Fathy\\Desktop\\Algoritms\\GreedyAlgorithms\\obj\\",
+      "outputPath": "E:\\Courses\\Software Engineering\\MyProjects\\Algorithms_DataStructures\\Algorithms\\GreedyAlgorithms\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

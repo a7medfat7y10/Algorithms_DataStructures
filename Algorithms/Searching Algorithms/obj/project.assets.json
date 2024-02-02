@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Fathy\\Desktop\\Algoritms\\Searching Algorithms\\Searching Algorithms.csproj",
+      "projectUniqueName": "E:\\Courses\\Software Engineering\\MyProjects\\Algorithms_DataStructures\\Algorithms\\Searching Algorithms\\Searching Algorithms.csproj",
       "projectName": "Searching Algorithms",
-      "projectPath": "C:\\Users\\Fathy\\Desktop\\Algoritms\\Searching Algorithms\\Searching Algorithms.csproj",
+      "projectPath": "E:\\Courses\\Software Engineering\\MyProjects\\Algorithms_DataStructures\\Algorithms\\Searching Algorithms\\Searching Algorithms.csproj",
       "packagesPath": "C:\\Users\\Fathy\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Fathy\\Desktop\\Algoritms\\Searching Algorithms\\obj\\",
+      "outputPath": "E:\\Courses\\Software Engineering\\MyProjects\\Algorithms_DataStructures\\Algorithms\\Searching Algorithms\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
